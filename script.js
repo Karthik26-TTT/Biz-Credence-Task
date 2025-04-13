@@ -7,7 +7,7 @@ const products = [
     name: "Buds",
     price: 1499,
     quantity: 1,
-    image: "https://placehold.co/80x80/198754/FFFFFF.png?text=Headphones",
+    image: "https://placehold.co/80x80/198754/FFFFFF.png?text=Buds",
   },
   {
     id: 2,
