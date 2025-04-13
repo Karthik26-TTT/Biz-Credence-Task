@@ -4,7 +4,7 @@ let selectedAddressIndex = null;
 const products = [
   {
     id: 1,
-    name: "Headphones",
+    name: "Buds",
     price: 1499,
     quantity: 1,
     image: "https://placehold.co/80x80/198754/FFFFFF.png?text=Headphones",
